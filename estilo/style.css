@@ -561,7 +561,8 @@ header h1 img{
     display: block;
     border-radius: 0.8rem;
 }
-
+.foto-con-sticker{
+   border-radius: 0.8rem
 /* =======================================================
    CARRUSEL
 ======================================================= */
